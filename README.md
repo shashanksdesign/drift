@@ -6,7 +6,7 @@ Agent skills for running a design system, not just building one.
 
 A design system doesn't fail, it drifts. A token nobody re-audited. A prop only one screen still sets. A component quietly rebuilt because nobody remembered the real one existed. These skills are what catches it: the architecture that keeps tokens and component APIs from drifting apart, and the audit that measures how far they already have.
 
-They come out of running a production design system at [Upstox](https://upstox.com), where a token set went from 240 declarations to 27 roles without anything on screen changing.
+They come out of running a production design system at [Upstox](https://upstox.com).
 
 ## Skills
 
@@ -19,13 +19,13 @@ They come out of running a production design system at [Upstox](https://upstox.c
 ## Install
 
 ```bash
-npx skills add shashankshambharkar/drift
+npx skills add shashanksdesign/drift
 ```
 
 ## Claude Code plugin
 
 ```text
-/plugin marketplace add shashankshambharkar/drift
+/plugin marketplace add shashanksdesign/drift
 /plugin install drift@drift
 ```
 
@@ -39,6 +39,6 @@ npx skills add shashankshambharkar/drift
 
 ## Author
 
-[Shashank Shambharkar](https://shashanks.design), design systems designer. Pune, India.
+[Shashank Shambharkar](https://shashanks.design), design systems designer. Mumbai, India.
 
 MIT.
