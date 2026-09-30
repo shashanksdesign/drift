@@ -38,6 +38,6 @@ npx skills add shashanksdesign/drift
 
 ## Author
 
-[Shashank Shambharkar](https://shashanks.design), design systems designer. Mumbai, India.
+[Shashank Shambharkar](https://shashanks.design), Design Systems Designer. Mumbai, India.
 
 MIT.
