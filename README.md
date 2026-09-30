@@ -6,7 +6,6 @@ Agent skills for running a design system, not just building one.
 
 A design system doesn't fail, it drifts. A token nobody re-audited. A prop only one screen still sets. A component quietly rebuilt because nobody remembered the real one existed. These skills are what catches it: the architecture that keeps tokens and component APIs from drifting apart, and the audit that measures how far they already have.
 
-They come out of running a production design system at [Upstox](https://upstox.com).
 
 ## Skills
 
@@ -31,7 +30,7 @@ npx skills add shashanksdesign/drift
 
 ## What each skill will not do
 
-`design-tokens` does not pick colors. Ramp construction and contrast measurement belong to [`better-colors`](https://github.com/jakubkrehel/skills), and this skill owns the architecture those values sit in.
+`design-tokens` does not pick colors. Ramp construction and contrast measurement, and this skill owns the architecture those values sit in.
 
 `component-api` does not review visual or interaction craft. Those belong to `better-ui` and `better-accessibility`.
 
